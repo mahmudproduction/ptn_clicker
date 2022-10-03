@@ -1,2 +1,2 @@
 # ptn_clicker
-Clocker for window in python
+Clicker for window in python
